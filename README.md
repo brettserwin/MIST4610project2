@@ -1,4 +1,4 @@
-# MIST4610project2
+# MIST4610Project2
 
 Dylan Vila: https://github.com/dylanvila1
 
