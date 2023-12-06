@@ -10,7 +10,7 @@ Ryan Burstiner: https://github.com/ryanburst1
 
 Brett Serwin: https://github.com/brettserwin
 
-## Description of Data set
+## Description of Dataset
 Our dataset contains information about the real estate market in Connecticut. The data contains information on each property’s serial number, the year it was listed, the date it was sold, the address, the assessed value, the sale amount, the sales ratio (the assessed value divided by the sale amount, the property type (residential, commercial, industrial, public utility, and vacant land), the residential type (single family home, two family home, etc.), the non-use code, the assessor remarks, the OPM remarks, and the coordinates. All of the data was stored in the CSV file as type “General” except for the date recorded column which is stored as type “Date”.
 
 ## Question 1
